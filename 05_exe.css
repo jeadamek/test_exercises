@@ -1,0 +1,10 @@
+@charset "UTF-8"; 
+
+.btn.primary > div {
+    background-color: transparent;
+    color: #fff;
+}
+.btn.secondary > div {
+    background-color: #fff;
+    color: #0063b8;
+}
